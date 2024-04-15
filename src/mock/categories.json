@@ -1,0 +1,643 @@
+[{
+  "_id": {
+    "$oid": "63e0d376a646612dd2dc706f"
+  },
+  "name": {
+    "en": "Breast",
+    "ru": "Грудь",
+    "uz": "Ko'krak"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d690a646612dd2dc707e"
+    },
+    {
+      "$oid": "63e0d695a646612dd2dc7082"
+    },
+    {
+      "$oid": "63e0d69ca646612dd2dc7086"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675678582263"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679388492"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d526a646612dd2dc7071"
+  },
+  "name": {
+    "en": "Back",
+    "ru": "Спина",
+    "uz": "Bel"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d6b5a646612dd2dc708d"
+    },
+    {
+      "$oid": "63e0d6baa646612dd2dc7091"
+    },
+    {
+      "$oid": "63e0d6bfa646612dd2dc7095"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679014789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679423399"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d54aa646612dd2dc7073"
+  },
+  "name": {
+    "en": "Legs",
+    "ru": "Ноги",
+    "uz": "Oyoqlar"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d6eea646612dd2dc709c"
+    },
+    {
+      "$oid": "63e0d6f3a646612dd2dc70a0"
+    },
+    {
+      "$oid": "63e0d6f8a646612dd2dc70a4"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679050036"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679480188"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d571a646612dd2dc7075"
+  },
+  "name": {
+    "en": "Shoulders",
+    "ru": "Плечи",
+    "uz": "Yelkalar"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d723a646612dd2dc70ab"
+    },
+    {
+      "$oid": "63e0d729a646612dd2dc70af"
+    },
+    {
+      "$oid": "63e0d72ea646612dd2dc70b3"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679089088"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679534694"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d59aa646612dd2dc7077"
+  },
+  "name": {
+    "en": "Hands",
+    "ru": "Руки",
+    "uz": "Qo'llar"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d764a646612dd2dc70ba"
+    },
+    {
+      "$oid": "63e0d769a646612dd2dc70be"
+    },
+    {
+      "$oid": "63e0d770a646612dd2dc70c2"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679130224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679600334"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d5f5a646612dd2dc707a"
+  },
+  "name": {
+    "en": "Press",
+    "ru": "Пресс",
+    "uz": "Pres"
+  },
+  "type": "EXERCISE",
+  "children": [
+    {
+      "$oid": "63e0d78ea646612dd2dc70c6"
+    },
+    {
+      "$oid": "63e0d793a646612dd2dc70ca"
+    },
+    {
+      "$oid": "63e0d797a646612dd2dc70ce"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679221777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679639303"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63e0d690a646612dd2dc707e"
+  },
+  "name": {
+    "en": "Breast 1",
+    "ru": "Грудь 1",
+    "uz": "Ko'krak 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d376a646612dd2dc706f"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679376902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679376902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d695a646612dd2dc7082"
+  },
+  "name": {
+    "en": "Breast 2",
+    "ru": "Грудь 2",
+    "uz": "Ko'krak 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d376a646612dd2dc706f"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679381625"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679381625"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d69ca646612dd2dc7086"
+  },
+  "name": {
+    "en": "Breast 3",
+    "ru": "Грудь 3",
+    "uz": "Ko'krak 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d376a646612dd2dc706f"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679388489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679388489"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6b5a646612dd2dc708d"
+  },
+  "name": {
+    "en": "Back 1",
+    "ru": "Спина 1",
+    "uz": "Bel 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d526a646612dd2dc7071"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679413526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679413526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6baa646612dd2dc7091"
+  },
+  "name": {
+    "en": "Back 2",
+    "ru": "Спина 2",
+    "uz": "Bel 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d526a646612dd2dc7071"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679418348"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679418348"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6bfa646612dd2dc7095"
+  },
+  "name": {
+    "en": "Back 3",
+    "ru": "Спина 3",
+    "uz": "Bel 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d526a646612dd2dc7071"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679423393"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679423393"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6eea646612dd2dc709c"
+  },
+  "name": {
+    "en": "Legs 1",
+    "ru": "Ноги 1",
+    "uz": "Oyoqlar 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d54aa646612dd2dc7073"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679470842"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679470842"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6f3a646612dd2dc70a0"
+  },
+  "name": {
+    "en": "Legs 2",
+    "ru": "Ноги 2",
+    "uz": "Oyoqlar 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d54aa646612dd2dc7073"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679475664"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679475664"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d6f8a646612dd2dc70a4"
+  },
+  "name": {
+    "en": "Legs 3",
+    "ru": "Ноги 3",
+    "uz": "Oyoqlar 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d54aa646612dd2dc7073"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679480182"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679480182"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d723a646612dd2dc70ab"
+  },
+  "name": {
+    "en": "Shoulders 1",
+    "ru": "Плечи 1",
+    "uz": "Yelkalar 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d571a646612dd2dc7075"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679523920"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679523920"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d729a646612dd2dc70af"
+  },
+  "name": {
+    "en": "Shoulders 2",
+    "ru": "Плечи 2",
+    "uz": "Yelkalar 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d571a646612dd2dc7075"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679529275"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679529275"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d72ea646612dd2dc70b3"
+  },
+  "name": {
+    "en": "Shoulders 3",
+    "ru": "Плечи 3",
+    "uz": "Yelkalar 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d571a646612dd2dc7075"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679534690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679534690"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d764a646612dd2dc70ba"
+  },
+  "name": {
+    "en": "Hands 1",
+    "ru": "Руки 1",
+    "uz": "Qo'llar 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d59aa646612dd2dc7077"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679588736"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679588736"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d769a646612dd2dc70be"
+  },
+  "name": {
+    "en": "Hands 2",
+    "ru": "Руки 2",
+    "uz": "Qo'llar 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d59aa646612dd2dc7077"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679593914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679593914"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d770a646612dd2dc70c2"
+  },
+  "name": {
+    "en": "Hands 3",
+    "ru": "Руки 3",
+    "uz": "Qo'llar 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d59aa646612dd2dc7077"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679600332"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679600332"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d78ea646612dd2dc70c6"
+  },
+  "name": {
+    "en": "Press 1",
+    "ru": "Пресс 1",
+    "uz": "Pres 1"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d5f5a646612dd2dc707a"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679630699"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679630699"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d793a646612dd2dc70ca"
+  },
+  "name": {
+    "en": "Press 2",
+    "ru": "Пресс 2",
+    "uz": "Pres 2"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d5f5a646612dd2dc707a"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679635011"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679635011"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0d797a646612dd2dc70ce"
+  },
+  "name": {
+    "en": "Press 3",
+    "ru": "Пресс 3",
+    "uz": "Pres 3"
+  },
+  "type": "EXERCISE",
+  "parent": {
+    "$oid": "63e0d5f5a646612dd2dc707a"
+  },
+  "children": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675679639300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675679639300"
+    }
+  },
+  "__v": 0
+}]

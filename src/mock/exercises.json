@@ -1,0 +1,1243 @@
+[{
+  "_id": {
+    "$oid": "63e0e4686c74b519487e5417"
+  },
+  "title": "Exercise title 1",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 1",
+  "metadescription": "Exercise metadescription 1",
+  "category": {
+    "$oid": "63e0d690a646612dd2dc707e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675682920884"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675686970769"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e47b6c74b519487e541c"
+  },
+  "title": "Exercise title 2",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 2",
+  "metadescription": "Exercise metadescription 2",
+  "category": {
+    "$oid": "63e0d690a646612dd2dc707e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675682939979"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675682939979"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e4846c74b519487e5421"
+  },
+  "title": "Exercise title 3",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 3",
+  "metadescription": "Exercise metadescription 3",
+  "category": {
+    "$oid": "63e0d690a646612dd2dc707e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675682948915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675682948915"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e55dc06df5833cc05f23"
+  },
+  "title": "Exercise title 4",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 4",
+  "metadescription": "Exercise metadescription 4",
+  "category": {
+    "$oid": "63e0d695a646612dd2dc7082"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683165748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683165748"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e565c06df5833cc05f28"
+  },
+  "title": "Exercise title 5",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 5",
+  "metadescription": "Exercise metadescription 5",
+  "category": {
+    "$oid": "63e0d695a646612dd2dc7082"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683173993"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683173993"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e56cc06df5833cc05f2d"
+  },
+  "title": "Exercise title 6",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 6",
+  "metadescription": "Exercise metadescription 6",
+  "category": {
+    "$oid": "63e0d695a646612dd2dc7082"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683180962"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683180962"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e590c06df5833cc05f34"
+  },
+  "title": "Exercise title 7",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 7",
+  "metadescription": "Exercise metadescription 7",
+  "category": {
+    "$oid": "63e0d69ca646612dd2dc7086"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683216168"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683216168"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e59dc06df5833cc05f39"
+  },
+  "title": "Exercise title 8",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 8",
+  "metadescription": "Exercise metadescription 8",
+  "category": {
+    "$oid": "63e0d69ca646612dd2dc7086"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683229340"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683229340"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e5a8c06df5833cc05f3e"
+  },
+  "title": "Exercise title 9",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 9",
+  "metadescription": "Exercise metadescription 9",
+  "category": {
+    "$oid": "63e0d69ca646612dd2dc7086"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683240608"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683240608"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e5e3c06df5833cc05f47"
+  },
+  "title": "Exercise title 10",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 10",
+  "metadescription": "Exercise metadescription 10",
+  "category": {
+    "$oid": "63e0d6b5a646612dd2dc708d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683299746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683299746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e680313be1eef9fc8905"
+  },
+  "title": "Exercise title 11",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 11",
+  "metadescription": "Exercise metadescription 11",
+  "category": {
+    "$oid": "63e0d6b5a646612dd2dc708d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683456622"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683456622"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0e68a313be1eef9fc890a"
+  },
+  "title": "Exercise title 12",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 12",
+  "metadescription": "Exercise metadescription 12",
+  "category": {
+    "$oid": "63e0d6b5a646612dd2dc708d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675683466513"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675683466513"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5072b346533bd06b79d"
+  },
+  "title": "Exercise title 13",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 13",
+  "metadescription": "Exercise metadescription 13",
+  "category": {
+    "$oid": "63e0d6baa646612dd2dc7091"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687175757"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687175757"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5122b346533bd06b7a2"
+  },
+  "title": "Exercise title 14",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 15",
+  "metadescription": "Exercise metadescription 15",
+  "category": {
+    "$oid": "63e0d6baa646612dd2dc7091"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687186211"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687186211"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5412b346533bd06b7aa"
+  },
+  "title": "Exercise title 15",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 15",
+  "metadescription": "Exercise metadescription 15",
+  "category": {
+    "$oid": "63e0d6baa646612dd2dc7091"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687233281"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687233281"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5752b346533bd06b7b1"
+  },
+  "title": "Exercise title 16",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 16",
+  "metadescription": "Exercise metadescription 16",
+  "category": {
+    "$oid": "63e0d6bfa646612dd2dc7095"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687285750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687285750"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f57f2b346533bd06b7b6"
+  },
+  "title": "Exercise title 17",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 17",
+  "metadescription": "Exercise metadescription 17",
+  "category": {
+    "$oid": "63e0d6bfa646612dd2dc7095"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687295698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687295698"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5882b346533bd06b7bb"
+  },
+  "title": "Exercise title 18",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 18",
+  "metadescription": "Exercise metadescription 18",
+  "category": {
+    "$oid": "63e0d6bfa646612dd2dc7095"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687304962"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687304962"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5ed2b346533bd06b7c2"
+  },
+  "title": "Exercise title 19",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 19",
+  "metadescription": "Exercise metadescription 19",
+  "category": {
+    "$oid": "63e0d6eea646612dd2dc709c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687405452"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687405452"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f5fa2b346533bd06b7c7"
+  },
+  "title": "Exercise title 20",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 20",
+  "metadescription": "Exercise metadescription 20",
+  "category": {
+    "$oid": "63e0d6eea646612dd2dc709c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687418288"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687418288"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0f6052b346533bd06b7cc"
+  },
+  "title": "Exercise title 21",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 21",
+  "metadescription": "Exercise metadescription 21",
+  "category": {
+    "$oid": "63e0d6eea646612dd2dc709c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675687429905"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675687429905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa4e2b346533bd06b7d5"
+  },
+  "title": "Exercise title 22",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 22",
+  "metadescription": "Exercise metadescription 22",
+  "category": {
+    "$oid": "63e0d6f3a646612dd2dc70a0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688526922"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688526922"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa572b346533bd06b7da"
+  },
+  "title": "Exercise title 23",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 23",
+  "metadescription": "Exercise metadescription 23",
+  "category": {
+    "$oid": "63e0d6f3a646612dd2dc70a0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688535909"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688535909"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa692b346533bd06b7e1"
+  },
+  "title": "Exercise title 24",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 24",
+  "metadescription": "Exercise metadescription 24",
+  "category": {
+    "$oid": "63e0d6f3a646612dd2dc70a0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688553086"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688553086"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa7e2b346533bd06b7e6"
+  },
+  "title": "Exercise title 25",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 25",
+  "metadescription": "Exercise metadescription 25",
+  "category": {
+    "$oid": "63e0d6f8a646612dd2dc70a4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688574025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688574025"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa882b346533bd06b7eb"
+  },
+  "title": "Exercise title 26",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 26",
+  "metadescription": "Exercise metadescription 26",
+  "category": {
+    "$oid": "63e0d6f8a646612dd2dc70a4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688584890"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688584890"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fa932b346533bd06b7f0"
+  },
+  "title": "Exercise title 27",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 27",
+  "metadescription": "Exercise metadescription 27",
+  "category": {
+    "$oid": "63e0d6f8a646612dd2dc70a4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688595087"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688595087"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fb722b346533bd06b7f7"
+  },
+  "title": "Exercise title 28",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 28",
+  "metadescription": "Exercise metadescription 28",
+  "category": {
+    "$oid": "63e0d723a646612dd2dc70ab"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688818412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688818412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fba22b346533bd06b7fe"
+  },
+  "title": "Exercise title 29",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 29",
+  "metadescription": "Exercise metadescription 29",
+  "category": {
+    "$oid": "63e0d723a646612dd2dc70ab"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688866297"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688866297"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fbac2b346533bd06b803"
+  },
+  "title": "Exercise title 30",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 30",
+  "metadescription": "Exercise metadescription 30",
+  "category": {
+    "$oid": "63e0d723a646612dd2dc70ab"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688876867"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688876867"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fbc32b346533bd06b808"
+  },
+  "title": "Exercise title 31",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 31",
+  "metadescription": "Exercise metadescription 31",
+  "category": {
+    "$oid": "63e0d729a646612dd2dc70af"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688899774"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688899774"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fbcd2b346533bd06b80d"
+  },
+  "title": "Exercise title 32",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 32",
+  "metadescription": "Exercise metadescription 32",
+  "category": {
+    "$oid": "63e0d729a646612dd2dc70af"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688909790"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688909790"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fbd72b346533bd06b812"
+  },
+  "title": "Exercise title 33",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 33",
+  "metadescription": "Exercise metadescription 33",
+  "category": {
+    "$oid": "63e0d729a646612dd2dc70af"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688919484"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688919484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fbf82b346533bd06b819"
+  },
+  "title": "Exercise title 34",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 34",
+  "metadescription": "Exercise metadescription 34",
+  "category": {
+    "$oid": "63e0d72ea646612dd2dc70b3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688952677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688952677"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc012b346533bd06b81e"
+  },
+  "title": "Exercise title 35",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 35",
+  "metadescription": "Exercise metadescription 35",
+  "category": {
+    "$oid": "63e0d72ea646612dd2dc70b3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688961802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688961802"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc0a2b346533bd06b823"
+  },
+  "title": "Exercise title 36",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 36",
+  "metadescription": "Exercise metadescription 36",
+  "category": {
+    "$oid": "63e0d72ea646612dd2dc70b3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675688970771"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675688970771"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc3d2b346533bd06b82a"
+  },
+  "title": "Exercise title 37",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 37",
+  "metadescription": "Exercise metadescription 37",
+  "category": {
+    "$oid": "63e0d764a646612dd2dc70ba"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689021014"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689021014"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc452b346533bd06b82f"
+  },
+  "title": "Exercise title 38",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 38",
+  "metadescription": "Exercise metadescription 38",
+  "category": {
+    "$oid": "63e0d764a646612dd2dc70ba"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689029639"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689029639"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc4e2b346533bd06b834"
+  },
+  "title": "Exercise title 39",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 39",
+  "metadescription": "Exercise metadescription 39",
+  "category": {
+    "$oid": "63e0d764a646612dd2dc70ba"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689038287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689038287"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc672b346533bd06b839"
+  },
+  "title": "Exercise title 40",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 40",
+  "metadescription": "Exercise metadescription 40",
+  "category": {
+    "$oid": "63e0d769a646612dd2dc70be"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689063247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689063247"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc6f2b346533bd06b83e"
+  },
+  "title": "Exercise title 41",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 41",
+  "metadescription": "Exercise metadescription 41",
+  "category": {
+    "$oid": "63e0d769a646612dd2dc70be"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689071392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689071392"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc802b346533bd06b845"
+  },
+  "title": "Exercise title 42",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 42",
+  "metadescription": "Exercise metadescription 42",
+  "category": {
+    "$oid": "63e0d769a646612dd2dc70be"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689088338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689088338"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fc992b346533bd06b84c"
+  },
+  "title": "Exercise title 43",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 43",
+  "metadescription": "Exercise metadescription 43",
+  "category": {
+    "$oid": "63e0d770a646612dd2dc70c2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689113357"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689113357"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fca12b346533bd06b851"
+  },
+  "title": "Exercise title 44",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 44",
+  "metadescription": "Exercise metadescription 44",
+  "category": {
+    "$oid": "63e0d770a646612dd2dc70c2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689121669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689121669"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fca92b346533bd06b856"
+  },
+  "title": "Exercise title 45",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 45",
+  "metadescription": "Exercise metadescription 45",
+  "category": {
+    "$oid": "63e0d770a646612dd2dc70c2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689129276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689129276"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fccb2b346533bd06b85d"
+  },
+  "title": "Exercise title 46",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 46",
+  "metadescription": "Exercise metadescription 46",
+  "category": {
+    "$oid": "63e0d78ea646612dd2dc70c6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689163708"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689163708"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fcd42b346533bd06b862"
+  },
+  "title": "Exercise title 47",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 47",
+  "metadescription": "Exercise metadescription 47",
+  "category": {
+    "$oid": "63e0d78ea646612dd2dc70c6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689172479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689172479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fcdc2b346533bd06b867"
+  },
+  "title": "Exercise title 48",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 48",
+  "metadescription": "Exercise metadescription 48",
+  "category": {
+    "$oid": "63e0d78ea646612dd2dc70c6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689180379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689180379"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fcf52b346533bd06b86e"
+  },
+  "title": "Exercise title 49",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 49",
+  "metadescription": "Exercise metadescription 49",
+  "category": {
+    "$oid": "63e0d793a646612dd2dc70ca"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689205924"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689205924"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fcfe2b346533bd06b873"
+  },
+  "title": "Exercise title 50",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 50",
+  "metadescription": "Exercise metadescription 50",
+  "category": {
+    "$oid": "63e0d793a646612dd2dc70ca"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689214992"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689214992"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fd072b346533bd06b878"
+  },
+  "title": "Exercise title 51",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 51",
+  "metadescription": "Exercise metadescription 51",
+  "category": {
+    "$oid": "63e0d793a646612dd2dc70ca"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689223300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689223300"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fd212b346533bd06b87f"
+  },
+  "title": "Exercise title 52",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 52",
+  "metadescription": "Exercise metadescription 52",
+  "category": {
+    "$oid": "63e0d797a646612dd2dc70ce"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689249074"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689249074"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fd282b346533bd06b884"
+  },
+  "title": "Exercise title 53",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 53",
+  "metadescription": "Exercise metadescription 53",
+  "category": {
+    "$oid": "63e0d797a646612dd2dc70ce"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689256293"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689256293"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0fd322b346533bd06b889"
+  },
+  "title": "Exercise title 54",
+  "image": "/images/image.png",
+  "video": "/videos/video.mp4",
+  "description": "Exercise description 54",
+  "metadescription": "Exercise metadescription 54",
+  "category": {
+    "$oid": "63e0d797a646612dd2dc70ce"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675689266305"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675689266305"
+    }
+  },
+  "__v": 0
+}]
