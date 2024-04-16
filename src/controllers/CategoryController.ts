@@ -52,7 +52,7 @@ export class CategoryController {
 
   public async create(req: Request, res: Response, next: NextFunction) {
     console.log(req.body);
-    const readData = fs.readFileSync(path.resolve(__dirname, "data.json"), {
+    const readData = fs.readFileSync(path.resolve(__dirname, "dataP.json"), {
       encoding: "utf-8",
     });
 
